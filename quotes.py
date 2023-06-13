@@ -7,3 +7,5 @@ quotes = [
      "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
      "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
      "In the middle of every difficulty lies opportunity. - Albert Einstein"
+      ]
+    return random.choice(quotes)
