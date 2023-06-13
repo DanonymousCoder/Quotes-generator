@@ -9,5 +9,6 @@ quotes = [
      "In the middle of every difficulty lies opportunity. - Albert Einstein"
       ]
     return random.choice(quotes)
-# Generate and print a random quote#
 quote = get_random_quote()
+print(quote)
+# Generate and print a random quote#
