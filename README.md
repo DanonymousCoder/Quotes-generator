@@ -1,3 +1,3 @@
 # Quotes-generator
 This repository is created to generate random inspirational quotes when it is run ........                                                                                   
-I'm looking forward to adding more quotes to make it fun and exciting.....                                                                                                Thank you
+I'm looking forward to adding more quotes to make it fun and exciting.....                                                                                                                                                                                                                                                                         Thank you.
